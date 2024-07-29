@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Confirmation</title>
+    <style>
+        /* Custom Styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 0;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .header {
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        .content {
+            padding: 40px 30px;
+            background-color: #ffffff;
+        }
+
+        .confirmation-form {
+            margin-bottom: 20px;
+        }
+
+            .confirmation-form input[type="hidden"] {
+                display: none;
+            }
+
+            .confirmation-form button {
+                width: 100%;
+                background: #4C83EE;
+                padding: 10px 0;
+                color: #fff;
+                font-size: 14px;
+                text-align: center;
+                font-weight: bold;
+                border: none;
+                border-radius: 7px;
+                cursor: pointer;
+                text-decoration: none;
+                display: inline-block;
+            }
+
+                .confirmation-form button:hover {
+                    background-color: #357ae8;
+                }
+
+        .footer {
+            padding: 20px 30px;
+            background-color: #f8f8f8;
+        }
+
+            .footer p {
+                color: #777777;
+                margin: 0;
+            }
+
+            .footer a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .footer a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+
+    <table class="container">
+        <tr>
+            <td class="header" align="center">
+                <img src="XXXXXXXX" alt="Logo">
+            </td>
+        </tr>
+        <tr>
+            <td class="content">
+                <h1>Email Confirmation</h1>
+                <p>Thank you for signing up! Please click the button below to confirm your email address:</p>
+                <form class="confirmation-form" action="https://localhost:7123/api/Auth/Confirm-Email" method="post">
+                    <h4 class="display-5">Hey, {{emailT}}</h4>
+                    <input type="hidden" id="email" name="email" value="{{emailT}}">
+                    <input type="hidden" id="token" name="token" value="{{tokenT}}">
+                    <button type="submit">Confirm Email</button>
+                </form>
+                <p>If you did not create an account, no further action is required.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="footer">
+                <p>If you have any questions, feel free to contact us at <a href="mailto:jaimindamor123@gmail.com">Jaimin Damor</a>.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

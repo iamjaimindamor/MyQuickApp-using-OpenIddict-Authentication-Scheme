@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyQuickApp_OpenIddict.Server", "MyQuickApp_Id.Server\MyQuickApp_OpenIddict.Server.csproj", "{D8B42361-BC16-498F-AF46-B24AA64974CA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "MyQuickApp_OpenIddict.client", "myquickapp_id.client\MyQuickApp_OpenIddict.client.esproj", "{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B42361-BC16-498F-AF46-B24AA64974CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B42361-BC16-498F-AF46-B24AA64974CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B42361-BC16-498F-AF46-B24AA64974CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B42361-BC16-498F-AF46-B24AA64974CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F8BCF5-66B6-4CF1-88B8-3617F517F083}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F531F671-9569-4472-B751-CC1AC237DC24}
+	EndGlobalSection
+EndGlobal
