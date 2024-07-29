@@ -75,6 +75,4 @@ Please Visit : <a href="https://youtu.be/u6wYCXrju6w">Project Demo</a>
 
 ## ✍️ Credit & References :
 
-Bootstrap Template That I've used for Views (FrontEnd) : <a href="https://themewagon.com/themes/fruitkha-free-bootstrap-4-responsive-food-business-template/">Template Link </a>
-
 Story Telling Images : <a href="https://storyset.com/">Story Set</a>
