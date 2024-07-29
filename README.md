@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-Project is currently freely hosted at Azure | <a href="https://myquickappapi.azurewebsites.net/Admin">LIVE DEMO</a>
+Project is currently freely hosted at Azure | <a href="https://myquickappapi.azurewebsites.net">LIVE DEMO</a>
 
 <pre><i>Note : Link May Not Work if Free Trial is Over</i></pre>
 
