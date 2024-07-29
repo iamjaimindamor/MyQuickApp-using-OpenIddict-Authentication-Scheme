@@ -71,7 +71,10 @@ Please Visit : <a href="https://youtu.be/u6wYCXrju6w">Project Demo</a>
 
 ## 🪶Build Using Following technology and tools :
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="52px" height="52px"/> &nbsp; <img src="https://github.com/coherencez/tech-logos/blob/master/html5.png?raw=true" width="52px" height="52px"/> &nbsp; <img src="https://github.com/coherencez/tech-logos/blob/master/css3.png?raw=true" width="41px" height="52px"/>
-&nbsp; &nbsp;<img src="https://github.com/coherencez/tech-logos/blob/master/bootstrap.png?raw=true" width="48px" height="48px"/> &nbsp;
+&nbsp; &nbsp;![image](https://github.com/user-attachments/assets/99794e36-72d1-49fb-b988-12d95f9f8905)
+ &nbsp; ![image](https://github.com/user-attachments/assets/118c24fc-972c-442f-b33c-064a0889e5a0) &nbsp;![image](https://github.com/user-attachments/assets/48928088-da6c-4bdb-bc59-d4046c447eea)
+
+
 
 ## ✍️ Credit & References :
 
