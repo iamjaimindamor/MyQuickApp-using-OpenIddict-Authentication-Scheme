@@ -28,7 +28,9 @@ Project is currently freely hosted at Azure | <a href="https://myquickappapi.azu
 
 ⟹ MailTrap API for Email Services.
 
-⟹ Code First Approach
+⟹ Code First Approach.
+
+⟹ MS Sql Server
 
 ## 🔒 Authentication & Authorization
 
