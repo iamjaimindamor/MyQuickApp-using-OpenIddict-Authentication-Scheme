@@ -10,9 +10,7 @@
 
 ## Live Demo
 
-Project is currently freely hosted at Azure | <a href="https://myquickappapi.azurewebsites.net">LIVE DEMO</a>
-
-<pre><i>Note : Link May Not Work if Free Trial is Over</i></pre>
+Project Demo is currently freely hosted | <a href="https://myquickapp.runasp.net">LIVE DEMO</a>
 
 ## 🚀 Lets Gets Started
 
@@ -31,6 +29,12 @@ Project is currently freely hosted at Azure | <a href="https://myquickappapi.azu
 ⟹ Code First Approach.
 
 ⟹ MS Sql Server
+
+⟹ [NEW] MapBox API Integration
+
+⟹ [NEW] Location Timeline Service 
+
+⟹ [NEW] Responsive UI and Refined UX using Bootstrap , Now Support for all devices 
 
 ## 🔒 Authentication & Authorization
 
