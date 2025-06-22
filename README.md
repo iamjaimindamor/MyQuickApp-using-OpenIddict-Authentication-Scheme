@@ -24,7 +24,7 @@ Project Demo is currently freely hosted | <a href="https://myquickapp.runasp.net
 
 ⟹ AutoMapper for automatically mapping DTOs.
 
-⟹ MailTrap API for Email Services.
+⟹ SMTP2G0 for Email Services.
 
 ⟹ Code First Approach.
 
